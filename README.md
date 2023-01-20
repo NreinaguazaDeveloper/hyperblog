@@ -10,3 +10,5 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Creado por el increible Platzi Team
 * Incluye ejemplos en windows, Linux y Mac
 * Disponible para todos
+* Incluye ejemplos en windows, Linux y Mac
+* Disponible para todos
