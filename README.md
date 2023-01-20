@@ -9,3 +9,4 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Recomendaciones de los instrcutores y/o profesores
 * Creado por el increible Platzi Team
 * Incluye ejemplos en windows, Linux y Mac
+* Disponible para todos
